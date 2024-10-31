@@ -68,4 +68,4 @@ Contribuições são sempre bem-vindas! Envie um pull request ou abra uma issue 
 
 ---
 
-![ToSalvo](https://img.shields.io/badge/ToSalvo-automatizado-blue) ![Chrome](https://img.shields.io/badge/chrome-extension-orange)
+![Khan](https://img.shields.io/badge/ToSalvo-automatizado-blue) ![Chrome](https://img.shields.io/badge/chrome-extension-orange)
