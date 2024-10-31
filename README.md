@@ -1,6 +1,6 @@
-# ToSalvo "ME SALVA" 🚀
+# KhanAtx "Khan academy" 🚀
 
-ToSalvo é uma extensão que resolve automaticamente questões com **100% de precisão** em menos de **1 segundo**! Projetado para oferecer rapidez e eficácia, ToSalvo é ideal para quem precisa de respostas automáticas e imediatas.
+KhanAtx é uma extensão que resolve automaticamente questões com **100% de precisão** em menos de **1 segundo**! Projetado para oferecer rapidez e eficácia, ToSalvo é ideal para quem precisa de respostas automáticas e imediatas.
 
 
 ## 📋 Funcionalidades
@@ -14,7 +14,7 @@ ToSalvo é uma extensão que resolve automaticamente questões com **100% de pre
 ### 🔹 No Desktop (Google Chrome)
 
 1. **Baixe o arquivo ZIP**:
-   - [ToSalvo.zip](https://github.com/Louyslnx/ToSalvo/archive/refs/tags/tosalvo.zip)
+   - [KhanAtx.zip](https://github.com/Louyslnx/KhanAtx/blob/main/khanatx1.0.zip)
 
 2. **Extraia o conteúdo**:
    - Localize o arquivo `.zip` baixado e extraia seu conteúdo para uma pasta.
@@ -33,7 +33,7 @@ ToSalvo é uma extensão que resolve automaticamente questões com **100% de pre
    - [Kiwi Browser na Google Play Store](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 
 2. **Baixe o arquivo ZIP da extensão**:
-   - [ToSalvo.zip](https://github.com/Louyslnx/ToSalvo/archive/refs/tags/tosalvo.zip)
+   - [KhanAtx.zip](https://github.com/Louyslnx/KhanAtx/blob/main/khanatx1.0.zip)
 
 3. **Instale a Extensão no Kiwi Browser**:
    - Abra o **Kiwi Browser** e acesse `chrome://extensions/`.
