@@ -14,7 +14,7 @@ KhanAtx é uma extensão que resolve automaticamente questões com **100% de pre
 ### 🔹 No Desktop (Google Chrome)
 
 1. **Baixe o arquivo ZIP**:
-   - [KhanAtx.zip](https://github.com/Louyslnx/KhanAtx/blob/main/khanatx1.0.zip)
+   - [KhanAtx.zip](https://github.com/Louyslnx/KhanAtx/raw/refs/heads/main/khanatx1.2.zip)
 
 2. **Extraia o conteúdo**:
    - Localize o arquivo `.zip` baixado e extraia seu conteúdo para uma pasta.
